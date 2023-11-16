@@ -1,5 +1,8 @@
 import Banner from "../components/Banner"
 
+
+// https://www.youtube.com/watch?v=Ipgf8PLRmY8&ab_channel=Grafikart.fr
+
 export default function Login() {
     return (
         <main className='h-screen'>
@@ -8,7 +11,7 @@ export default function Login() {
             </div>
             <section className='rounded-t-2xl h-4/5 bg-gray-50 w-[100%] mb-0 pl-16 pr-16 pt-10 text-center h-screen'>
               <div className="flex flex-col rounded-xl bg-clip-border text-gray-700">
-                <p className="text-xs">
+                <p className="text-sm text-blue-medium">
                   Conéctate con tu usuario y contraseña y comunícate fácilmente con tu escuela.
                 </p>
                 <form className="mt-8 mb-2 max-w-screen-lg">
