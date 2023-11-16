@@ -1,7 +1,19 @@
+'use client'
+
+import { Dna } from "react-loader-spinner"
 
 export default function Loading() {
     return (
-        <div>loading ...</div>
+        <main className="block bg-white h-screen">
+            <Dna
+                visible={true}
+                height="80"
+                width="80"
+                ariaLabel="dna-loading"
+                wrapperStyle={{}}
+                wrapperClass="m-auto h-screen"
+                />
+        </main>
     )
 }
 
