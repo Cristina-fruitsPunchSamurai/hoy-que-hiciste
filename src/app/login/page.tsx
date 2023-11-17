@@ -2,6 +2,7 @@ import Banner from "../components/Banner"
 
 
 // https://www.youtube.com/watch?v=Ipgf8PLRmY8&ab_channel=Grafikart.fr
+//https://www.codevertiser.com/reusable-input-component-react/
 
 export default function Login() {
     return (

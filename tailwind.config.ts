@@ -14,14 +14,16 @@ const config: Config = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       colors: {
+        'green-apple': '#46D377',
         'purple' : '#4643E0',
         'purple-medium' : '#3431B2',
         'purple-light' : '#C5C7DB',
         'blue-medium': '#00095A',
-        'blue-dark' : '#101542'
+        'blue-dark' : '#101542',
+        'green-light' : '#C9EFD6'
       }
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }
 export default config

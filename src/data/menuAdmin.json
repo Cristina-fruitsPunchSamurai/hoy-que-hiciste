@@ -1,0 +1,38 @@
+
+[
+    {
+    "key" : 1,
+    "title": "Grupos",
+    "image": "/grupos.png"
+    },
+    {
+    "key" : 2,
+    "title": "Alumnado",
+    "image": "/alumnado-icon.png"
+    },
+    {
+    "key" : 3,
+    "title": "Permisos de salida",
+    "image": "/permisos-icon.png"
+    },
+    {
+    "key" : 4,
+    "title": "Profesorado",
+    "image": "/profesorado-icon.png"
+    },
+    {
+    "key" : 5,
+    "title": "Calendario oficial",
+    "image": "/calendario-icon.png"
+    },
+    {
+    "key" : 6,
+    "title": "Materias",
+    "image": "/materias-icon.png"
+    },
+    {
+    "key" : 7,
+    "title": "Competencias",
+    "image": "/competencias-icon.png"
+    }
+]
