@@ -1,4 +1,4 @@
-import Menubar from "@/app/components/Breadcrumbs";
+import Menubar from "@/app/components/BreadcrumbsAdmin";
 import data from '../../../data/menuAdmin.json'
 import Image from 'next/image';
 
