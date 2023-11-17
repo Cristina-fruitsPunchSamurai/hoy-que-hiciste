@@ -9,7 +9,7 @@ export default function AdminProfile() {
                 <h2 className="bg-green-apple text-center text-white text-bold font-bold text-base pt-5">
                     Panel de control
                 </h2>
-            <section className="mb-5">
+            {/* <section className="mb-5">
                 <p className="text-purple font-bold m-5 pt-2 text-xs"> Mi perfil de escuela : </p>
                 <div className="menu rounded-box bg-white mr-5 ml-5">
                     <div className="flex text-sm h-10">
@@ -24,7 +24,7 @@ export default function AdminProfile() {
                         </div>
                     ))}
                 </div>
-            </section>
+            </section> */}
             <Menubar/>
         </main>
     )
